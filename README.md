@@ -13,7 +13,7 @@ This repo aspires to track the progress of the Web3 community as it utilizes p2p
 <tr> <th> Problem </th> <th> Details </th> <th> State </th> <th> Projects </th> </tr>
 <tr> <td> Archival </td>
 <td>
-How do we preserve papers AND their data resources while making them available to the community? Can we help research outlast the institutions that have been their stewards so far?
+How do we preserve papers AND their data resources while making them available to the community? Can we help research outlast the institutions that have been their stewards so far (as universities and libraries are threatened with closures)?
 </td>
 </tr>
 <tr>
