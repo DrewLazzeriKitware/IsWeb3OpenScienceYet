@@ -1,17 +1,18 @@
 # Is Web3 Open Science Yet?
-This repo aspires to track the progress of the Web3 community as it utilizes p2p networks, incentive engineering, and p2p networks to solve problems in Open Science. Inspired by https://www.arewewebyet.org/
+This repo aspires to track the progress of the Web3 community as it utilizes p2p networks, incentive engineering, and p2p networks to solve problems in Open Science. Contributions welcome! Inspired by https://www.arewewebyet.org/
 
-### Key
-```
+The obstacles to Open Science listed below are tagged with these status emojis:
+
 🔧 There are established communities surrounding tooling for this problem.
+
 🌵 People are working on this! But expect thorns 
+
 💀 To our knowledge, nobody is working on this
-```
 
 # Storage
 <table>
 <tr> <th> Problem </th> <th> Details </th> <th> State </th> <th> Projects </th> </tr>
-<tr> <td> Archival </td>
+<tr> <td> 🌵 Archival </td>
 <td>
 How do we preserve papers AND their data resources while making them available to the community? Can we help research outlast the institutions that have been their stewards so far (as universities and libraries are threatened with closures)?
 </td>
@@ -42,5 +43,3 @@ How do we preserve papers AND their data resources while making them available t
 <tr> <td>Reproducible</td></tr>
 <tr> <td>Multi-threading, GPU accelerated</td></tr>
 </table>
-
-
