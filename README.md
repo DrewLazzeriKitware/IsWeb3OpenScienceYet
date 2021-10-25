@@ -23,8 +23,8 @@ The obstacles to Open Science listed below are tagged with these status emojis:
     Several projects are incentivizing long term content hosting.
   </td>
   <td>
-    [Arweave](https://www.arweave.org/) is pay-once-store-forever storage for smaller datasets.
-    [Filecoin](https://filecoin.io/) is pay as you go storage for large datasets.
+    <a href="https://www.arweave.org/">Arweave</a> is pay-once-store-forever storage for smaller datasets.
+    <a href="https://filecoin.io/">Filecoin</a> is pay as you go storage for large datasets.
   </td>
 </tr>
 <tr><td> 🌵 Access control </td>
@@ -35,8 +35,8 @@ The obstacles to Open Science listed below are tagged with these status emojis:
     Access control is harder in p2p networks, but some projects are working on this.
   </td>
   <td>
-    [Ocean Protocol](https://oceanprotocol.com/) uses "data wallets" to control data access. 
-    [IPFS](https://docs.ipfs.io/concepts/privacy-and-encryption/#enhancing-your-privacy) can share encrypted files.
+    <a href="https://oceanprotocol.com/" >Ocean Protocol</a> uses "data wallets" to control data access. 
+    <a href="https://docs.ipfs.io/concepts/privacy-and-encryption/#enhancing-your-privacy"> IPFS </a> can share encrypted files.
   </td>
 </tr>
 <tr> <td>Extremely large datasets</td></tr>
@@ -56,7 +56,7 @@ The obstacles to Open Science listed below are tagged with these status emojis:
   <td>Funding</td>
   <td> How can we steer funding towards research?</td> 
   <td> There are solid projects around founding research, primarily in research tools and software. </td> 
-  <td> [Gitcoin](https://gitcoin.co/) has routed millions of dollars towards "public goods," largely software. [EthGlobal](https://showcase.ethglobal.com/) has regular hackathons rewarding product implementations and ideas. Many (DAO)[https://en.wikipedia.org/wiki/The_DAO_(organization)]s are rallying around organizing funding for science.  </td>
+  <td> <a href="https://gitcoin.co/">Gitcoin</a> has routed millions of dollars towards "public goods," largely software. <a href="https://showcase.ethglobal.com/"> EthGlobal </a> has regular hackathons rewarding product implementations and ideas. Many <a href="https://en.wikipedia.org/wiki/The_DAO_(organization)"> DAOs </a> are rallying around organizing funding for science.  </td>
 </tr>
 </table>
 
@@ -68,7 +68,7 @@ The obstacles to Open Science listed below are tagged with these status emojis:
   <td>Reproducible</td> 
   <td>How can we verify computatinoal research claims? </td> 
   <td> Unsure </td> 
-  <td> [Fragment](https://showcase.ethglobal.com/hackfs2021/fragment) proposes workflows for verifiable data pipelines, but may have been just a hackathon project (?). </td> 
+  <td> <a href="https://showcase.ethglobal.com/hackfs2021/fragment"> Fragment </a> proposes workflows for verifiable data pipelines, but may have been just a hackathon project (?). </td> 
 </tr>
 <tr> <td>💀 Multi-threading, GPU accelerated</td></tr>
 </table>
