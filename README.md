@@ -39,8 +39,8 @@ The obstacles to Open Science listed below are tagged with these status emojis:
     <a href="https://docs.ipfs.io/concepts/privacy-and-encryption/#enhancing-your-privacy"> IPFS </a> can share encrypted files.
   </td>
 </tr>
-<tr> <td>Extremely large datasets</td></tr>
-<tr> <td>Exchange with formats following open standards</td></tr>
+<tr> <td>💀 Extremely large datasets</td></tr>
+<tr> <td>💀 Exchange with formats following open standards</td></tr>
 <tr> <td>💀 Provenance information</td></tr>
 <tr> <td>💀 Metadata preservation</td></tr>
 <tr> <td>💀 Linking associated datasets</td></tr>
@@ -53,7 +53,7 @@ The obstacles to Open Science listed below are tagged with these status emojis:
 <tr> <th> Problem </th> <th> Details </th> <th> State </th> <th> Projects </th> </tr>
 <tr> <td>💀 Attribution</td> </tr>
 <tr> 
-  <td>Funding</td>
+  <td>🔧 Funding</td>
   <td> How can we steer funding towards research?</td> 
   <td> There are solid projects around founding research, primarily in research tools and software. </td> 
   <td> <a href="https://gitcoin.co/">Gitcoin</a> has routed millions of dollars towards "public goods," largely software. <a href="https://showcase.ethglobal.com/"> EthGlobal </a> has regular hackathons rewarding product implementations and ideas. Many <a href="https://en.wikipedia.org/wiki/The_DAO_(organization)"> DAOs </a> are rallying around organizing funding for science.  </td>
@@ -65,7 +65,7 @@ The obstacles to Open Science listed below are tagged with these status emojis:
 <tr> <th> Problem </th> <th> Details </th> <th> State </th> <th> Projects </th> </tr>
 <tr> <td>💀 High thoughput</td></tr>
 <tr>
-  <td>Reproducible</td> 
+  <td>💀 Reproducible</td> 
   <td>How can we verify computatinoal research claims? </td> 
   <td> Unsure </td> 
   <td> <a href="https://showcase.ethglobal.com/hackfs2021/fragment"> Fragment </a> proposes workflows for verifiable data pipelines, but may have been just a hackathon project (?). </td> 
