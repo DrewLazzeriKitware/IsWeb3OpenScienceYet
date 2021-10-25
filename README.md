@@ -51,7 +51,7 @@ The obstacles to Open Science listed below are tagged with these status emojis:
 # Ecosystem
 <table>
 <tr> <th> Problem </th> <th> Details </th> <th> State </th> <th> Projects </th> </tr>
-<tr> <td>💀 Attribution</td> </tr>
+<tr> <td>💀Attribution</td> </tr>
 <tr> 
   <td>🔧 Funding</td>
   <td> How can we steer funding towards research?</td> 
