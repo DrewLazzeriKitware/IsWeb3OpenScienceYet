@@ -48,7 +48,7 @@ The obstacles to Open Science listed below are tagged with these status emojis:
 </table>
 
 
-# Identity associated with citations
+# Ecosystem
 <table>
 <tr> <th> Problem </th> <th> Details </th> <th> State </th> <th> Projects </th> </tr>
 <tr> <td>💀 Attribution</td> </tr>
