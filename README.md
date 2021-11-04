@@ -58,15 +58,9 @@ The obstacles to Open Science listed below are tagged with these status emojis:
   <td></td>  
   <td>Maybe <a href="https://ipld.io/">IPLD</a> is useful here? Or <a href="https://ceramic.network/">Ceramic?</a></td>    
 </tr>
-<tr>
-  <td>💀 Linking associated datasets</td>
-  <td></td>
-  <td></td>  
-  <td>Maybe <a href="https://ipld.io/">IPLD</a> is useful here? Or <a href="https://ceramic.network/">Ceramic?</a></td>    
-</tr>
 <tr> 
-  <td>💀 Annotating datasets </td>
-  <td></td>
+  <td>💀 Annotating datasets / Linking associated datasets </td>
+  <td> A medical dataset may have multiple researchers annotating or segment it. How can we preserve that relationship?</td>
   <td></td>  
   <td>Maybe <a href="https://ipld.io/">IPLD</a> is useful here? Or <a href="https://ceramic.network/">Ceramic?</a></td>    
 </tr>
