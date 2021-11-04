@@ -96,5 +96,10 @@ The obstacles to Open Science listed below are tagged with these status emojis:
   <td> Unsure </td> 
   <td> <a href="https://showcase.ethglobal.com/hackfs2021/fragment"> Fragment </a> proposes workflows for verifiable data pipelines, but may have been just a hackathon project (?). </td> 
 </tr>
-<tr> <td>💀 Multi-threading, GPU accelerated</td></tr>
+<tr> <td>💀 Multi-threading, GPU accelerated</td>
+  <td></td>
+  <td></td>
+  <td><a href="https://www.golem.network/"> Golem </a> is a Ethereum based marketplace for computation which has recently added GPU support. </td>
+  
+</tr>
 </table>
