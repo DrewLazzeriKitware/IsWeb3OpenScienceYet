@@ -40,10 +40,36 @@ The obstacles to Open Science listed below are tagged with these status emojis:
   </td>
 </tr>
 <tr> <td>💀 Extremely large datasets</td></tr>
-<tr> <td>💀 Exchange with formats following open standards</td></tr>
-<tr> <td>💀 Provenance information</td></tr>
-<tr> <td>💀 Metadata preservation</td></tr>
-<tr> <td>💀 Linking associated datasets</td></tr>
+<tr> 
+  <td>💀 Exchange with formats following open standards</td>
+  <td></td>
+  <td></td>
+  <td>Maybe <a href="https://ipld.io/">IPLD</a> is useful here? Or <a href="https://ceramic.network/">Ceramic?</a></td>  
+</tr>
+<tr> 
+  <td>💀 Provenance information</td>
+  <td></td>
+  <td></td>
+  <td>Maybe <a href="https://ipld.io/">IPLD</a> is useful here? Or <a href="https://ceramic.network/">Ceramic?</a></td>    
+</tr>
+<tr> 
+  <td>💀 Metadata preservation</td>
+  <td></td>
+  <td></td>  
+  <td>Maybe <a href="https://ipld.io/">IPLD</a> is useful here? Or <a href="https://ceramic.network/">Ceramic?</a></td>    
+</tr>
+<tr>
+  <td>💀 Linking associated datasets</td>
+  <td></td>
+  <td></td>  
+  <td>Maybe <a href="https://ipld.io/">IPLD</a> is useful here? Or <a href="https://ceramic.network/">Ceramic?</a></td>    
+</tr>
+<tr> 
+  <td>💀 Annotating datasets </td>
+  <td></td>
+  <td></td>  
+  <td>Maybe <a href="https://ipld.io/">IPLD</a> is useful here? Or <a href="https://ceramic.network/">Ceramic?</a></td>    
+</tr>
 <tr> <td>💀 Search for related datasets</td></tr>
 </table>
 
