@@ -85,10 +85,10 @@ The obstacles to Open Science listed below are tagged with these status emojis:
 <tr> <th> Problem </th> <th> Details </th> <th> State </th> <th> Projects </th> </tr>
 <tr> <td>💀 High thoughput</td></tr>
 <tr>
-  <td>💀 Reproducible</td> 
-  <td>How can we verify computatinoal research claims? </td> 
-  <td> Unsure </td> 
-  <td> <a href="https://showcase.ethglobal.com/hackfs2021/fragment"> Fragment </a> proposes workflows for verifiable data pipelines, but may have been just a hackathon project (?). </td> 
+  <td>🌵 Reproducible</td> 
+  <td> How can we verify computatinoal research claims? </td> 
+  <td> As web3 storage matures, frameworks that take advantage of them are appearing. </td> 
+  <td> <a href="https://docs.holium.org/"> Holium </a> provides a framework for describing data pipelines, including their histories. </td> 
 </tr>
 <tr> <td>💀 Multi-threading, GPU accelerated</td>
   <td></td>
