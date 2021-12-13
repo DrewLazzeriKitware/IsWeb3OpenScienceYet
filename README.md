@@ -1,5 +1,5 @@
 # Is Web3 Open Science Yet?
-This repo aspires to track the progress of the Web3 community as it utilizes p2p networks, incentive engineering, and p2p networks to solve problems in Open Science. Inspired by https://www.arewewebyet.org/.
+This repo aspires to track the progress of the Web3 community as it utilizes cryptography, incentive engineering, and p2p networks to solve problems in Open Science. Inspired by https://www.arewewebyet.org/.
 
 This is work in progress and we need your contributions! Open an issue to start a conversation about a problem, a project, or a way forward. 
 
